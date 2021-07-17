@@ -76,16 +76,8 @@
     animation-delay: 7s;
 }
 
-   .swi ,.rus, .esp, .ned, .fra, .ita, .germ{ 
-    width: 300px;
-    cursor: pointer;
-    padding: 0px 5px;
-    border: 4px solid #fff;
-    border-radius: 30px;
-   }
-
-   .gre, .avs, .dan, .alb, .isl, .bel, .ven, .bosn, .uzb, .swee, .nor, .tur, .por, .cheh, .xor {
-    width: 300px;
+ .swi , .germ, .rus, .esp, .ned, .fra, .ita, .gre, .avs, .dan, .alb, .isl, .bel, .ven, .bosn, .uzb, .swee, .nor, .tur, .por, .cheh, .xor {
+    width: 290px;
     cursor: pointer;
     padding: 0px 5px;
     border: 4px solid #fff;
@@ -93,7 +85,7 @@
    }
 
    .sho{
-    width: 300px;
+    width: 290px;
     cursor: pointer;
     padding: 0px 5px;
     border: 4px solid #fff;
@@ -103,10 +95,12 @@
    
    .eng {
   
-        width: 300px;
+        width: 290px;
         cursor: pointer;
         padding: 0px 5px;
         border: 4px solid #fff;
         border-radius: 30px;
-        height: 200;
+        height: 194;
        }
+
+
