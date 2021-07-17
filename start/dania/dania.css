@@ -38,9 +38,9 @@ body{
 }
 
 .itaa{
-    height: 670px;
+    height: 500px;
     align-content: center;
-    width: 860;
+    width: 500 ;
 }
 
 
@@ -62,7 +62,7 @@ h5{
 
 
 .clima{
-  height: 500px;
+  height: 350;
   align-content: center;
-  width: 678;
+  width: 350;
 }
