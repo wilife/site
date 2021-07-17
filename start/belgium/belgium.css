@@ -26,11 +26,11 @@ h3{
 }
 
 .eda{
-    height: 256;
+    height: 286;
     align-content: center;
     float: right;
     margin: right;
-    widhth: 340;
+    widhth: 300;
 }
 
 body{
@@ -64,7 +64,7 @@ h5{
 .clima{
   height: 500px;
   align-content: center;
-    width: 550;
+    width: 600;
 }
 
 .ita{
