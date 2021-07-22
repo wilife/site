@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    width: 100%;
 }
 body {
     font-family: 'Roboto', sans-serif;
@@ -145,6 +146,7 @@ a.button {
 .button-google {
     color:#C6CFDC;
     background: #F2F6FF;
+    image-rendering: optimizeQuality;
 }
 .button-google:hover {
     background: #E2E6F0;
